@@ -1,7 +1,7 @@
 
 # DevOpsCICD
 
-![Alt text](https://user-images.githubusercontent.com/119833411/241620850-56e50196-4555-473c-9c28-9f45625dbea5.jpg)
+![Alt text](https://miro.medium.com/v2/resize:fit:1400/1*domBOWMvoJjeLUJkOHIyEg.png)
 
 ## Step-1
 
