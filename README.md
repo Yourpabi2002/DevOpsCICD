@@ -42,4 +42,36 @@ Run jenkins from the Tomcat server using port localhost:8080/jenkins
 
 ## Step-3
 
-Now we are going to create
+Now we are going to create all the jobs one by one 
+
+Here is the ultimate architecture:
+
+![WhatsApp Image 2023-09-21 at 2 18 25 AM](https://github.com/Yourpabi2002/DevOpsCICD/assets/100905194/6bb4577f-b050-4add-a890-b5adc8ad433e)
+
+We need to install the plugins first
+Go to Manage jenkins, then plugins and available plugins
+Search and install
+
+- github
+- ant
+- warning next generation
+- JUnit
+- Deploy to container
+- Build Pipeline
+
+  ![Screenshot (9)](https://github.com/Yourpabi2002/DevOpsCICD/assets/100905194/0f061fa0-6bab-4c31-9536-427cc35e78e4)
+
+
+![Screenshot (10)](https://github.com/Yourpabi2002/DevOpsCICD/assets/100905194/7c18480a-03b3-4f38-a75f-f34e5de800e8)
+
+Now Create jobs one by one
+
+## Step-4
+### All jobs step by step
+for every job we will choose the freestyle project and modify them accordingly
+
+![WhatsApp Image 2023-09-21 at 4 01 00 AM](https://github.com/Yourpabi2002/DevOpsCICD/assets/100905194/18e166c2-0a61-431e-8c1b-9e75e77191fc)
+
+
+
+
