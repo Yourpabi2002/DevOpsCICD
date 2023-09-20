@@ -73,5 +73,16 @@ for every job we will choose the freestyle project and modify them accordingly
 ![WhatsApp Image 2023-09-21 at 4 01 00 AM](https://github.com/Yourpabi2002/DevOpsCICD/assets/100905194/18e166c2-0a61-431e-8c1b-9e75e77191fc)
 
 
+## Step-5
+### CICD pipeline
+
+-Now create a pipeline view and configure the job's post build action part to start another job build.
+-githubpull is the initial job for the pipeline.
+
+![](https://media.licdn.com/dms/image/C5622AQGVZAsB7uTW7Q/feedshare-shrink_2048_1536/0/1647025391147?e=1698278400&v=beta&t=pL8MgeErxwJvPucVBll2dWTtVkOJRvKwG0RnsbHJVvo)
+
+![](https://miro.medium.com/v2/resize:fit:1200/0*YG-yFK5U3CVYFc7s.png)
+
+
 
 
