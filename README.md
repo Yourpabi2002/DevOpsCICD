@@ -77,7 +77,7 @@ for every job we will choose the freestyle project and modify them accordingly
 ### CICD pipeline
 
 -Now create a pipeline view and configure the job's post build action part to start another job build.
--githubpull is the initial job for the pipeline.
+-githubpull is the initial job for the pipeline 
 
 ![](https://media.licdn.com/dms/image/C5622AQGVZAsB7uTW7Q/feedshare-shrink_2048_1536/0/1647025391147?e=1698278400&v=beta&t=pL8MgeErxwJvPucVBll2dWTtVkOJRvKwG0RnsbHJVvo)
 
